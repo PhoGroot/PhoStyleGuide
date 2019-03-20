@@ -7,6 +7,16 @@
 Every section of this style guide is numbered for both easy reference and easy linking. You can link to any section directly by simply append a hash tag and the section number to the end of http://ue4.style
 For example, if you want to send someone to the first principle of this style guide you would append `#0.1`, resulting in http://ue4.style#0.1.
 
+## Linking to Other Phosphor Branches
+
+Additional branches have been created for ease of access to specific topics.
+
+The branches can be located at the following links:
+
+##### [Asset Naming](https://github.com/PhoGroot/PhoStyleGuide/tree/asset-naming)
+##### [File Structure](https://github.com/PhoGroot/PhoStyleGuide/tree/file-structure)
+##### [Blueprint Style](https://github.com/PhoGroot/PhoStyleGuide/tree/blueprints)
+
 ## Important Terminology
 
 <a name="terms-level-map"></a>
