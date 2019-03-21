@@ -18,6 +18,10 @@ There are multiple ways to lay out the content of a UE4 project. In this style, 
 ### 2e1 Example Project Content Structure
 <pre>
 |-- Content
+    |-- Developer
+        |-- ___
+    |--ExampleMarketplaceContent
+        |-- ___
     |-- <a href="#2.2">GenericShooter</a>
         |-- Art
         |   |-- Industrial
@@ -65,7 +69,7 @@ There are multiple ways to lay out the content of a UE4 project. In this style, 
             |-- Pistols
             |   |-- DesertEagle
             |   |-- RocketPistol
-            |-- Rifles
+            |-- Rifles                     
 </pre>
 
 The reasons for this structure are listed in the following sub-sections.
