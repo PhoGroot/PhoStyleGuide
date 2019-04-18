@@ -88,6 +88,8 @@ When naming an asset use these tables to determine the prefix and suffix to use 
 
 > 1.2.12 [Effects](#anc-effects)
 
+> 1.2.13 [Ability System]("anc-abilities")
+
 <a name="anc-common"></a>
 <a name="1.2.1"></a>
 #### 1.2.1 Most Common ![#](https://img.shields.io/badge/lint-supported-green.svg)
@@ -295,5 +297,14 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Particle System         | PS_        |            |                                  |
 | Material (Post Process) | PP_        |            |                                  |
+
+<a name="anc-abilities"></a>
+<a name="1.2.13"></a>
+### 1.2.13 Ability System ![#](https://img.shields.io/badge/lint-supported-red.svg)
+
+| Asset Type              | Prefix     | Suffix     | Notes                            |
+| ----------------------- | ---------- | ---------- | -------------------------------- |
+| Gameplay Ability        | GA_        |            |                                  |
+| Gameplay Effect         | GE_        |            |                                  |
 
 **[⬆ Back to Top](#table-of-contents)**
