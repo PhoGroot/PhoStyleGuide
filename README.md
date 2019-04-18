@@ -88,7 +88,7 @@ When naming an asset use these tables to determine the prefix and suffix to use 
 
 > 1.2.12 [Effects](#anc-effects)
 
-> 1.2.13 [Ability System]("anc-abilities")
+> 1.2.13 [Ability System](#anc-abilities)
 
 <a name="anc-common"></a>
 <a name="1.2.1"></a>
