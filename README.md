@@ -229,6 +229,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Media Player               | MP_        |            |                                  |
 | Object Library             | OL_        |            |                                  |
 | Redirector                 |            |            | These should be fixed up ASAP.   |
+| SaveGame                   | SG_        |            |                                  |
 | Sprite Sheet               | SS_        |            |                                  |
 | Static Vector Field        | VF_        |            |                                  |
 | Substance Graph Instance   | SGI_       |            |                                  |
