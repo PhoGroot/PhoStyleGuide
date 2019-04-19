@@ -124,6 +124,8 @@ When naming an asset use these tables to determine the prefix and suffix to use 
 | Animation Sequence      | A_         |            |                                  |
 | Blend Space             | BS_        |            |                                  |
 | Blend Space 1D          | BS_        |            |                                  |
+| Anim Notify             | AN_        |            |                                  |
+| Anim Notify State       | ANS_       |            |                                  |
 | Level Sequence          | LS_        |            |                                  |
 | Morph Target            | MT_        |            |                                  |
 | Paper Flipbook          | PFB_       |            |                                  |
