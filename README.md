@@ -306,5 +306,6 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Gameplay Ability        | GA_        |            |                                  |
 | Gameplay Effect         | GE_        |            |                                  |
+| Target Type             | TT_        |            |                                  |
 
 **[⬆ Back to Top](#table-of-contents)**
