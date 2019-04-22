@@ -196,6 +196,8 @@ When naming an asset use these tables to determine the prefix and suffix to use 
 
 > 1.2.12 [Effects](#anc-effects)
 
+> 1.2.13 [Ability System](#anc-abilities)
+
 <a name="anc-common"></a>
 <a name="1.2.1"></a>
 #### 1.2.1 Most Common ![#](https://img.shields.io/badge/lint-supported-green.svg)
@@ -230,6 +232,8 @@ When naming an asset use these tables to determine the prefix and suffix to use 
 | Animation Sequence      | A_         |            |                                  |
 | Blend Space             | BS_        |            |                                  |
 | Blend Space 1D          | BS_        |            |                                  |
+| Anim Notify             | AN_        |            |                                  |
+| Anim Notify State       | ANS_       |            |                                  |
 | Level Sequence          | LS_        |            |                                  |
 | Morph Target            | MT_        |            |                                  |
 | Paper Flipbook          | PFB_       |            |                                  |
@@ -337,6 +341,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Media Player               | MP_        |            |                                  |
 | Object Library             | OL_        |            |                                  |
 | Redirector                 |            |            | These should be fixed up ASAP.   |
+| SaveGame                   | SG_        |            |                                  |
 | Sprite Sheet               | SS_        |            |                                  |
 | Static Vector Field        | VF_        |            |                                  |
 | Substance Graph Instance   | SGI_       |            |                                  |
@@ -402,6 +407,16 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Particle System         | PS_        |            |                                  |
 | Material (Post Process) | PP_        |            |                                  |
+
+<a name="anc-abilities"></a>
+<a name="1.2.13"></a>
+### 1.2.13 Ability System ![#](https://img.shields.io/badge/lint-supported-red.svg)
+
+| Asset Type              | Prefix     | Suffix     | Notes                            |
+| ----------------------- | ---------- | ---------- | -------------------------------- |
+| Gameplay Ability        | GA_        |            |                                  |
+| Gameplay Effect         | GE_        |            |                                  |
+| Target Type             | TT_        |            |                                  |
 
 **[⬆ Back to Top](#table-of-contents)**
 
