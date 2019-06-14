@@ -379,14 +379,20 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Dialogue Voice          | DV_        |            |                                  |
 | Dialogue Wave           | DW_        |            |                                  |
-| Media Sound Wave        | MSW_       |            |                                  |
+| Modular Synth Preset Bank | MSB_       |            |                                  |
 | Reverb Effect           | Reverb_    |            |                                  |
 | Sound Attenuation       | ATT_       |            |                                  |
-| Sound Class             |            |            | No prefix/suffix. Should be put in a folder called SoundClasses |
-| Sound Concurrency       |            | _SC        | Should be named after a SoundClass |
+| Sound Class             |            | _\<ID>SC           | 3-Letter project-specific Identifier to differentiate from default engine SoundClasses. Should be put in a folder called SoundClasses. Do <I>NOT</I> use default engine SoundClasses. |
+| Sound Concurrency       |            | _Conc        | Should be named after a SoundClass |
 | Sound Cue               | A_         | _Cue       |                                  |
-| Sound Mix               | Mix_       |            |                                  |
-| Sound Wave              | A_         |            |                                  |
+| Sound Mix               | MIX_       |            |                                  |
+| Sound Source Bus        | BUS_       |            |                                  |
+| Sound Submix            | SUB_       |            |                                  |
+| Source Effect Preset    | SEP_       |            |                                  |
+| Source Effect Preset Chain | SEPC_    |            |                                  |
+| Submix Effect Preset    | SUBP_      |            |                                  |
+| Time Synth Clip         | TS_        |            |                                  |
+| Time Synth Volume Group | TSVG_      |            |                                  |
 
 <a name="anc-ui"></a>
 <a name="1.2.11"></a>
